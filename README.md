@@ -1,4 +1,4 @@
 lpthw
 =====
 
-learn python the hard way - exercises
+learn python the hard way - exercise codes
